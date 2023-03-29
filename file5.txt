@@ -1,3 +1,4 @@
 You have a great sense of humor
 Jocelyn also has a great sense of humor!
-You deserve another compliment, but I don't have one right now.
+<<<<<<< HEAD
+Can you hear me?
