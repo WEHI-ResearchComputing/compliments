@@ -1,6 +1,2 @@
 You’re wonderful.
-<<<<<<< HEAD
 It is great!
-=======
-You deserve another compliment, but I don't have one right now.
->>>>>>> 940484c611e87f5d5a8fa5b2586009511aa68a34
