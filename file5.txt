@@ -1,3 +1,4 @@
 You have a great sense of humor
 Jocelyn also has a great sense of humor!
+<<<<<<< HEAD
 Can you hear me?
